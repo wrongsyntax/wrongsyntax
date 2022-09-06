@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uzair</h1>
+<h1 align="center">Uzair // wrongsyntax</h1>
 <h3 align="center">A software engineering student at UofA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wrongsyntax&label=Profile%20views&color=0e75b6&style=flat" alt="wrongsyntax" /> </p>
