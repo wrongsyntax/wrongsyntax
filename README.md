@@ -1,11 +1,7 @@
 <h1 align="center">Uzair // wrongsyntax</h1>
 <h3 align="center">A software engineering student at UofA.</h3>
 
-* Available for a 4-month Summer 2023 Co-Op Internship. 
-
 - All of my projects are available at [https://github.com/wrongsyntax?tab=repositories](https://github.com/wrongsyntax?tab=repositories)
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="background-color:#1c87c9;">
