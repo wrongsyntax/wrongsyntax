@@ -1,4 +1,4 @@
-<h1 align="center">Uzair // wrongsyntax</h1>
+<h1 align="center">Uzair Tariq</h1>
 <h3 align="center">A software engineering student at UofA.</h3>
 
 - All of my projects are available at [https://github.com/wrongsyntax?tab=repositories](https://github.com/wrongsyntax?tab=repositories)
